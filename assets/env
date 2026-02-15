@@ -1,0 +1,17 @@
+# Web Firebase Config
+WEB_API_KEY=AIzaSyDkEmKsTm91TAjS4RvWqX1e-FYE5YfnaDU
+WEB_APP_ID=1:432894496928:web:3c57a2edd0dfe735d8b9c5
+WEB_MESSAGING_SENDER_ID=432894496928
+WEB_PROJECT_ID=hacker-5c40c
+WEB_AUTH_DOMAIN=hacker-5c40c.firebaseapp.com
+WEB_STORAGE_BUCKET=hacker-5c40c.firebasestorage.app
+
+# Android Firebase Config
+ANDROID_API_KEY=AIzaSyAfgxa8TD3KBEN8F-MkxJXaFRBwuFjOKDE
+ANDROID_APP_ID=1:432894496928:android:0b28561071b2ad75d8b9c5
+ANDROID_MESSAGING_SENDER_ID=432894496928
+ANDROID_PROJECT_ID=hacker-5c40c
+ANDROID_STORAGE_BUCKET=hacker-5c40c.firebasestorage.app
+
+# Google Sign-In Client ID (Web)
+WEB_GOOGLE_CLIENT_ID=432894496928-vn90oic8sqets26ku89mg7l1e8u8rasi.apps.googleusercontent.com

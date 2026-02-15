@@ -12,7 +12,12 @@
           "package_name": "com.example.hacker"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "432894496928-vn90oic8sqets26ku89mg7l1e8u8rasi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAfgxa8TD3KBEN8F-MkxJXaFRBwuFjOKDE"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432894496928-vn90oic8sqets26ku89mg7l1e8u8rasi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
