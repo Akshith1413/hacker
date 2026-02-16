@@ -53,7 +53,6 @@
 // feat: setup fastapi backend and base router - Change ID: 1421133122
 // feat: setup fastapi backend and base router - Change ID: 699575898
 // feat: setup fastapi backend and base router - Change ID: 1759185873
-// feat: setup fastapi backend and base router - Change ID: 7747213
 // feat: setup fastapi backend and base router - Change ID: 557916385
 // feat: setup fastapi backend and base router - Change ID: 1827974846
 // feat: setup fastapi backend and base router - Change ID: 104736718
@@ -268,7 +267,6 @@
 // docs: document backend api endpoints - Change ID: 3299079044
 // docs: document backend api endpoints - Change ID: 1396800930
 // docs: document backend api endpoints - Change ID: 3602402147
-// docs: document backend api endpoints - Change ID: 536717936
 // docs: document backend api endpoints - Change ID: 1615212579
 // docs: document backend api endpoints - Change ID: 958809527
 // docs: document backend api endpoints - Change ID: 1713365454
@@ -396,7 +394,6 @@
 // docs: document backend api endpoints - Change ID: 670214946
 // docs: document backend api endpoints - Change ID: 1751934844
 // docs: document backend api endpoints - Change ID: 1785379344
-// docs: document backend api endpoints - Change ID: 2202543743
 // docs: document backend api endpoints - Change ID: 3947276291
 // docs: document backend api endpoints - Change ID: 3307568269
 // docs: document backend api endpoints - Change ID: 155081137
@@ -440,3 +437,14 @@
 // feat: implement real-time updates for repository list - Change ID: 1032518284
 // feat: implement real-time updates for repository list - Change ID: 3059736998
 // feat: implement real-time updates for repository list - Change ID: 268518578
+// feat: implement settings page and user preferences - Change ID: 4027907390
+// feat: implement settings page and user preferences - Change ID: 1735222915
+// feat: implement settings page and user preferences - Change ID: 4031221887
+// feat: implement settings page and user preferences - Change ID: 1920312795
+// feat: implement settings page and user preferences - Change ID: 3647141141
+// feat: implement settings page and user preferences - Change ID: 570393679
+// feat: implement settings page and user preferences - Change ID: 3169570335
+// feat: implement settings page and user preferences - Change ID: 3564577093
+// feat: implement settings page and user preferences - Change ID: 3282848620
+// feat: implement settings page and user preferences - Change ID: 2444117723
+// feat: implement settings page and user preferences - Change ID: 1924673778
