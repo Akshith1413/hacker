@@ -23,7 +23,6 @@
 // refactor: optimize analysis pipeline performance - Change ID: 320495486
 // refactor: optimize analysis pipeline performance - Change ID: 3966607869
 // refactor: optimize analysis pipeline performance - Change ID: 2449899400
-// refactor: optimize analysis pipeline performance - Change ID: 2848541233
 // refactor: optimize analysis pipeline performance - Change ID: 3628253132
 // refactor: optimize analysis pipeline performance - Change ID: 2535333768
 // refactor: optimize analysis pipeline performance - Change ID: 3298107730
@@ -125,7 +124,6 @@
 // docs: document backend api endpoints - Change ID: 1779605912
 // docs: document backend api endpoints - Change ID: 2095872659
 // docs: document backend api endpoints - Change ID: 3059134140
-// docs: document backend api endpoints - Change ID: 2412369259
 // docs: document backend api endpoints - Change ID: 145064084
 // docs: document backend api endpoints - Change ID: 2819775838
 // docs: document backend api endpoints - Change ID: 494563354
@@ -427,7 +425,6 @@
 // feat: implement github repository analyzer logic - Change ID: 1459027200
 // feat: implement github repository analyzer logic - Change ID: 2376612457
 // feat: implement github repository analyzer logic - Change ID: 156995528
-// feat: implement github repository analyzer logic - Change ID: 4122614560
 // feat: implement github repository analyzer logic - Change ID: 3898877043
 // feat: implement github repository analyzer logic - Change ID: 3463481209
 // feat: implement github repository analyzer logic - Change ID: 2683882139
@@ -540,7 +537,6 @@
 // feat: implement github repository analyzer logic - Change ID: 2257457000
 // feat: implement github repository analyzer logic - Change ID: 3226044007
 // feat: implement github repository analyzer logic - Change ID: 151635480
-// feat: implement github repository analyzer logic - Change ID: 388877175
 // feat: implement github repository analyzer logic - Change ID: 4095270919
 // feat: implement github repository analyzer logic - Change ID: 406725152
 // feat: implement github repository analyzer logic - Change ID: 1611604872
@@ -551,3 +547,23 @@
 // feat: implement github repository analyzer logic - Change ID: 1457558402
 // feat: implement github repository analyzer logic - Change ID: 2294229177
 // feat: implement github repository analyzer logic - Change ID: 2546294024
+// fix: resolve layout overflow on small screens - Change ID: 2425449329
+// fix: resolve layout overflow on small screens - Change ID: 1809758661
+// fix: resolve layout overflow on small screens - Change ID: 3542272877
+// fix: resolve layout overflow on small screens - Change ID: 1563314708
+// fix: resolve layout overflow on small screens - Change ID: 2632211006
+// fix: resolve layout overflow on small screens - Change ID: 3958802680
+// fix: resolve layout overflow on small screens - Change ID: 1225221842
+// fix: resolve layout overflow on small screens - Change ID: 2466933110
+// fix: resolve layout overflow on small screens - Change ID: 1125453672
+// fix: resolve layout overflow on small screens - Change ID: 3275407466
+// fix: resolve layout overflow on small screens - Change ID: 3064932918
+// fix: resolve layout overflow on small screens - Change ID: 2621586029
+// fix: resolve layout overflow on small screens - Change ID: 1632184216
+// fix: resolve layout overflow on small screens - Change ID: 3813508033
+// fix: resolve layout overflow on small screens - Change ID: 1373613190
+// fix: resolve layout overflow on small screens - Change ID: 2488131143
+// fix: resolve layout overflow on small screens - Change ID: 2716705472
+// fix: resolve layout overflow on small screens - Change ID: 4166016912
+// fix: resolve layout overflow on small screens - Change ID: 4277700090
+// fix: resolve layout overflow on small screens - Change ID: 1061745457
