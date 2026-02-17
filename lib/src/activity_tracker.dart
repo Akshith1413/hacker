@@ -9,16 +9,13 @@
 // feat: setup fastapi backend and base router - Change ID: 2483510783
 // feat: setup fastapi backend and base router - Change ID: 566228518
 // feat: setup fastapi backend and base router - Change ID: 3754329353
-// feat: setup fastapi backend and base router - Change ID: 587153075
 // feat: setup fastapi backend and base router - Change ID: 1601665872
 // feat: setup fastapi backend and base router - Change ID: 2672600964
 // feat: setup fastapi backend and base router - Change ID: 3411095987
-// feat: setup fastapi backend and base router - Change ID: 2963361776
 // feat: setup fastapi backend and base router - Change ID: 177660694
 // feat: setup fastapi backend and base router - Change ID: 910987137
 // feat: setup fastapi backend and base router - Change ID: 1904987450
 // feat: setup fastapi backend and base router - Change ID: 54560302
-// feat: setup fastapi backend and base router - Change ID: 30731381
 // feat: setup fastapi backend and base router - Change ID: 1156323064
 // feat: setup fastapi backend and base router - Change ID: 390491968
 // feat: setup fastapi backend and base router - Change ID: 1490116820
@@ -46,14 +43,12 @@
 // feat: setup fastapi backend and base router - Change ID: 2312280306
 // feat: setup fastapi backend and base router - Change ID: 2340583102
 // feat: setup fastapi backend and base router - Change ID: 2335414446
-// feat: setup fastapi backend and base router - Change ID: 346115470
 // feat: setup fastapi backend and base router - Change ID: 3769612189
 // feat: setup fastapi backend and base router - Change ID: 2534767198
 // feat: setup fastapi backend and base router - Change ID: 3629921553
 // feat: setup fastapi backend and base router - Change ID: 3193883959
 // feat: setup fastapi backend and base router - Change ID: 1013471830
 // feat: setup fastapi backend and base router - Change ID: 1129317911
-// feat: setup fastapi backend and base router - Change ID: 2735665936
 // feat: setup fastapi backend and base router - Change ID: 3703237303
 // feat: setup fastapi backend and base router - Change ID: 1543089455
 // feat: setup fastapi backend and base router - Change ID: 242728998
@@ -139,12 +134,10 @@
 // feat: setup fastapi backend and base router - Change ID: 1094774441
 // feat: setup fastapi backend and base router - Change ID: 4050765899
 // feat: setup fastapi backend and base router - Change ID: 216889644
-// feat: setup fastapi backend and base router - Change ID: 781518069
 // feat: setup fastapi backend and base router - Change ID: 2741179873
 // feat: setup fastapi backend and base router - Change ID: 3684087638
 // feat: setup fastapi backend and base router - Change ID: 367338842
 // feat: setup fastapi backend and base router - Change ID: 1340475816
-// feat: setup fastapi backend and base router - Change ID: 3324376934
 // feat: setup fastapi backend and base router - Change ID: 2317192259
 // feat: setup fastapi backend and base router - Change ID: 3169436156
 // feat: setup fastapi backend and base router - Change ID: 1685540976
@@ -186,3 +179,19 @@
 // fix: resolve layout overflow on small screens - Change ID: 2924477133
 // fix: resolve layout overflow on small screens - Change ID: 1279616844
 // fix: resolve layout overflow on small screens - Change ID: 256571505
+// feat: add dashboard overview with statistics - Change ID: 1497850609
+// feat: add dashboard overview with statistics - Change ID: 2085971741
+// feat: add dashboard overview with statistics - Change ID: 3343596035
+// feat: add dashboard overview with statistics - Change ID: 4273863117
+// feat: add dashboard overview with statistics - Change ID: 395181530
+// feat: add dashboard overview with statistics - Change ID: 1789749591
+// feat: add dashboard overview with statistics - Change ID: 30132721
+// feat: add dashboard overview with statistics - Change ID: 3718946336
+// feat: add dashboard overview with statistics - Change ID: 2145285532
+// feat: add dashboard overview with statistics - Change ID: 3313489081
+// feat: add dashboard overview with statistics - Change ID: 3172874089
+// feat: add dashboard overview with statistics - Change ID: 2835848058
+// feat: add dashboard overview with statistics - Change ID: 3570237407
+// feat: add dashboard overview with statistics - Change ID: 3702749939
+// feat: add dashboard overview with statistics - Change ID: 770766180
+// feat: add dashboard overview with statistics - Change ID: 3550812382
