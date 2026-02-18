@@ -105,7 +105,6 @@
 // fix: resolve layout overflow on small screens - Change ID: 2197533444
 // fix: resolve layout overflow on small screens - Change ID: 799411166
 // fix: resolve layout overflow on small screens - Change ID: 1691989960
-// fix: resolve layout overflow on small screens - Change ID: 1576290692
 // fix: resolve layout overflow on small screens - Change ID: 1117768117
 // fix: resolve layout overflow on small screens - Change ID: 3353857783
 // fix: resolve layout overflow on small screens - Change ID: 2975499770
@@ -121,14 +120,12 @@
 // feat: add dashboard overview with statistics - Change ID: 3313489081
 // feat: add dashboard overview with statistics - Change ID: 3172874089
 // feat: add dashboard overview with statistics - Change ID: 3702749939
-// feat: add api endpoints for developer stats - Change ID: 1854641478
 // feat: add api endpoints for developer stats - Change ID: 677426306
 // feat: add api endpoints for developer stats - Change ID: 199058913
 // feat: add api endpoints for developer stats - Change ID: 3303446079
 // feat: add api endpoints for developer stats - Change ID: 798953205
 // feat: add api endpoints for developer stats - Change ID: 1254306683
 // feat: add api endpoints for developer stats - Change ID: 3564295453
-// feat: add api endpoints for developer stats - Change ID: 1329770944
 // feat: add api endpoints for developer stats - Change ID: 2927000111
 // feat: add api endpoints for developer stats - Change ID: 659298812
 // feat: add api endpoints for developer stats - Change ID: 2025766348
@@ -155,7 +152,6 @@
 // feat: add api endpoints for developer stats - Change ID: 1409011923
 // feat: add api endpoints for developer stats - Change ID: 3417695161
 // feat: add api endpoints for developer stats - Change ID: 1238297205
-// feat: add api endpoints for developer stats - Change ID: 2494229196
 // feat: add api endpoints for developer stats - Change ID: 1048415000
 // feat: add api endpoints for developer stats - Change ID: 868693610
 // feat: add api endpoints for developer stats - Change ID: 3258276504
@@ -261,7 +257,6 @@
 // feat: add api endpoints for developer stats - Change ID: 2122440462
 // feat: add api endpoints for developer stats - Change ID: 2577355074
 // feat: add api endpoints for developer stats - Change ID: 2200806756
-// feat: add api endpoints for developer stats - Change ID: 3267243602
 // feat: add api endpoints for developer stats - Change ID: 3844343477
 // feat: add api endpoints for developer stats - Change ID: 1182680120
 // feat: add api endpoints for developer stats - Change ID: 3355696995
@@ -358,7 +353,6 @@
 // feat: add ml service for repository classification - Change ID: 1252304072
 // feat: add ml service for repository classification - Change ID: 2077835311
 // feat: add ml service for repository classification - Change ID: 3382309077
-// feat: add ml service for repository classification - Change ID: 1944651722
 // feat: add ml service for repository classification - Change ID: 1119031960
 // feat: add ml service for repository classification - Change ID: 3036757253
 // feat: add ml service for repository classification - Change ID: 3885869221
@@ -464,3 +458,16 @@
 // feat: add ml service for repository classification - Change ID: 3935887797
 // feat: add ml service for repository classification - Change ID: 1223471101
 // feat: add ml service for repository classification - Change ID: 3663311175
+// refactor: modernize flutter project configuration - Change ID: 3694376376
+// refactor: modernize flutter project configuration - Change ID: 1237871187
+// refactor: modernize flutter project configuration - Change ID: 151650130
+// refactor: modernize flutter project configuration - Change ID: 1950848374
+// refactor: modernize flutter project configuration - Change ID: 2601261393
+// refactor: modernize flutter project configuration - Change ID: 4004903372
+// refactor: modernize flutter project configuration - Change ID: 3822524327
+// refactor: modernize flutter project configuration - Change ID: 2681382052
+// refactor: modernize flutter project configuration - Change ID: 360416284
+// refactor: modernize flutter project configuration - Change ID: 2662284470
+// refactor: modernize flutter project configuration - Change ID: 1583097927
+// refactor: modernize flutter project configuration - Change ID: 590459302
+// refactor: modernize flutter project configuration - Change ID: 915303672
