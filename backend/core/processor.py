@@ -129,7 +129,6 @@
 // feat: implement dockerfile for backend deployment - Change ID: 3207429529
 // feat: implement dockerfile for backend deployment - Change ID: 3266266381
 // feat: implement dockerfile for backend deployment - Change ID: 4035883608
-// feat: implement dockerfile for backend deployment - Change ID: 1008550795
 // feat: implement dockerfile for backend deployment - Change ID: 154501134
 // feat: implement dockerfile for backend deployment - Change ID: 3698848540
 // feat: implement dockerfile for backend deployment - Change ID: 214448114
@@ -460,7 +459,6 @@
 // feat: implement cache management for analysis results - Change ID: 1285856575
 // feat: implement cache management for analysis results - Change ID: 1318874749
 // feat: implement cache management for analysis results - Change ID: 2729823594
-// feat: implement cache management for analysis results - Change ID: 3651782039
 // feat: implement cache management for analysis results - Change ID: 1443363221
 // feat: implement cache management for analysis results - Change ID: 2614762112
 // feat: implement cache management for analysis results - Change ID: 3775286811
@@ -508,7 +506,6 @@
 // feat: implement cache management for analysis results - Change ID: 3984050149
 // feat: implement cache management for analysis results - Change ID: 3399035418
 // feat: implement cache management for analysis results - Change ID: 3715523853
-// feat: implement cache management for analysis results - Change ID: 3313018694
 // feat: implement cache management for analysis results - Change ID: 110390628
 // feat: implement cache management for analysis results - Change ID: 54462103
 // feat: implement cache management for analysis results - Change ID: 3054352653
@@ -570,3 +567,19 @@
 // feat: implement data persistence for offline mode - Change ID: 2357113398
 // feat: implement data persistence for offline mode - Change ID: 47598829
 // feat: implement data persistence for offline mode - Change ID: 1415587598
+// docs: update readme with setup instructions - Change ID: 2946599762
+// docs: update readme with setup instructions - Change ID: 1074459184
+// docs: update readme with setup instructions - Change ID: 2077810882
+// docs: update readme with setup instructions - Change ID: 1818428618
+// docs: update readme with setup instructions - Change ID: 1725837626
+// docs: update readme with setup instructions - Change ID: 3321979046
+// docs: update readme with setup instructions - Change ID: 2787136909
+// docs: update readme with setup instructions - Change ID: 565018876
+// docs: update readme with setup instructions - Change ID: 1075698492
+// docs: update readme with setup instructions - Change ID: 2319037455
+// docs: update readme with setup instructions - Change ID: 2037749808
+// docs: update readme with setup instructions - Change ID: 916339122
+// docs: update readme with setup instructions - Change ID: 3472696985
+// docs: update readme with setup instructions - Change ID: 3166828604
+// docs: update readme with setup instructions - Change ID: 403270626
+// docs: update readme with setup instructions - Change ID: 169340415
