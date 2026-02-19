@@ -23,7 +23,6 @@
 // feat: setup fastapi backend and base router - Change ID: 1689645153
 // feat: setup fastapi backend and base router - Change ID: 1346160991
 // feat: setup fastapi backend and base router - Change ID: 2097422260
-// feat: setup fastapi backend and base router - Change ID: 1203175927
 // feat: setup fastapi backend and base router - Change ID: 4087889597
 // feat: setup fastapi backend and base router - Change ID: 3786521008
 // feat: setup fastapi backend and base router - Change ID: 1519591456
@@ -58,7 +57,6 @@
 // feat: setup fastapi backend and base router - Change ID: 44533094
 // feat: setup fastapi backend and base router - Change ID: 2085193052
 // feat: setup fastapi backend and base router - Change ID: 53246217
-// feat: setup fastapi backend and base router - Change ID: 3080685376
 // feat: setup fastapi backend and base router - Change ID: 908620366
 // feat: setup fastapi backend and base router - Change ID: 2739291712
 // feat: setup fastapi backend and base router - Change ID: 182787699
@@ -278,7 +276,6 @@
 // feat: add api endpoints for developer stats - Change ID: 655933421
 // feat: add api endpoints for developer stats - Change ID: 1814131776
 // feat: add api endpoints for developer stats - Change ID: 246356072
-// feat: add api endpoints for developer stats - Change ID: 2953899150
 // feat: add api endpoints for developer stats - Change ID: 1052520519
 // feat: add api endpoints for developer stats - Change ID: 3538428621
 // feat: add api endpoints for developer stats - Change ID: 91990935
@@ -301,7 +298,6 @@
 // feat: add api endpoints for developer stats - Change ID: 3376663872
 // feat: add api endpoints for developer stats - Change ID: 1694832615
 // feat: add api endpoints for developer stats - Change ID: 690585385
-// feat: add api endpoints for developer stats - Change ID: 1698570085
 // feat: add api endpoints for developer stats - Change ID: 1150992380
 // feat: add api endpoints for developer stats - Change ID: 946572164
 // feat: add api endpoints for developer stats - Change ID: 1889294674
@@ -317,7 +313,6 @@
 // feat: add api endpoints for developer stats - Change ID: 3576404492
 // feat: add api endpoints for developer stats - Change ID: 2516164926
 // feat: add api endpoints for developer stats - Change ID: 1341439300
-// feat: add api endpoints for developer stats - Change ID: 710950119
 // feat: add api endpoints for developer stats - Change ID: 1516421417
 // feat: add api endpoints for developer stats - Change ID: 447610122
 // feat: add api endpoints for developer stats - Change ID: 3830745935
@@ -621,7 +616,6 @@
 // feat: add ml service for repository classification - Change ID: 3894666727
 // feat: add ml service for repository classification - Change ID: 483101781
 // feat: add ml service for repository classification - Change ID: 3629115828
-// feat: add ml service for repository classification - Change ID: 4231776578
 // feat: add ml service for repository classification - Change ID: 3911656981
 // feat: add ml service for repository classification - Change ID: 702581269
 // feat: add ml service for repository classification - Change ID: 1930599508
@@ -686,7 +680,6 @@
 // fix: handle api rate limits in github service - Change ID: 2550444450
 // fix: handle api rate limits in github service - Change ID: 788028938
 // fix: handle api rate limits in github service - Change ID: 2018161703
-// fix: handle api rate limits in github service - Change ID: 2582926720
 // feat: implement cache management for analysis results - Change ID: 1980666179
 // feat: implement cache management for analysis results - Change ID: 2066455939
 // feat: implement cache management for analysis results - Change ID: 3604405877
@@ -718,7 +711,6 @@
 // feat: implement cache management for analysis results - Change ID: 151565812
 // feat: implement cache management for analysis results - Change ID: 29227446
 // feat: implement cache management for analysis results - Change ID: 102698737
-// feat: implement cache management for analysis results - Change ID: 2599725534
 // feat: implement cache management for analysis results - Change ID: 1027754387
 // feat: implement cache management for analysis results - Change ID: 1482852854
 // feat: implement cache management for analysis results - Change ID: 3141736826
@@ -1124,7 +1116,6 @@
 // docs: document backend api endpoints - Change ID: 4252835550
 // docs: document backend api endpoints - Change ID: 932265159
 // docs: document backend api endpoints - Change ID: 3925988011
-// docs: document backend api endpoints - Change ID: 3253984441
 // docs: document backend api endpoints - Change ID: 147518577
 // docs: document backend api endpoints - Change ID: 385259039
 // docs: document backend api endpoints - Change ID: 2403032599
@@ -1189,7 +1180,6 @@
 // docs: document backend api endpoints - Change ID: 1384181863
 // docs: document backend api endpoints - Change ID: 2889531105
 // docs: document backend api endpoints - Change ID: 2545861190
-// docs: document backend api endpoints - Change ID: 1593503357
 // docs: document backend api endpoints - Change ID: 2634115829
 // docs: document backend api endpoints - Change ID: 1496355383
 // docs: document backend api endpoints - Change ID: 3840777597
@@ -1308,3 +1298,33 @@
 // docs: document backend api endpoints - Change ID: 1895159157
 // docs: document backend api endpoints - Change ID: 473601664
 // docs: document backend api endpoints - Change ID: 1207030650
+// refactor: extract common ui components - Change ID: 1236274569
+// refactor: extract common ui components - Change ID: 2885253597
+// refactor: extract common ui components - Change ID: 3145957817
+// refactor: extract common ui components - Change ID: 2022354366
+// refactor: extract common ui components - Change ID: 757645053
+// refactor: extract common ui components - Change ID: 211796673
+// refactor: extract common ui components - Change ID: 1666537491
+// refactor: extract common ui components - Change ID: 1005105637
+// refactor: extract common ui components - Change ID: 1070156447
+// refactor: extract common ui components - Change ID: 464937267
+// refactor: extract common ui components - Change ID: 3708758382
+// refactor: extract common ui components - Change ID: 3806677589
+// refactor: extract common ui components - Change ID: 3954146941
+// refactor: extract common ui components - Change ID: 2473714772
+// refactor: extract common ui components - Change ID: 1051946649
+// refactor: extract common ui components - Change ID: 3596225747
+// refactor: extract common ui components - Change ID: 1408373273
+// refactor: extract common ui components - Change ID: 3373373363
+// refactor: extract common ui components - Change ID: 3407300556
+// refactor: extract common ui components - Change ID: 1777661268
+// refactor: extract common ui components - Change ID: 3782120204
+// refactor: extract common ui components - Change ID: 263549473
+// refactor: extract common ui components - Change ID: 49514209
+// refactor: extract common ui components - Change ID: 335118200
+// refactor: extract common ui components - Change ID: 1481855387
+// refactor: extract common ui components - Change ID: 3081747918
+// refactor: extract common ui components - Change ID: 3625402662
+// refactor: extract common ui components - Change ID: 3701588642
+// refactor: extract common ui components - Change ID: 827911597
+// refactor: extract common ui components - Change ID: 2788164845
