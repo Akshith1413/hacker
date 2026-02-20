@@ -490,7 +490,6 @@
 // feat: add integration tests for backend services - Change ID: 1299152666
 // feat: add integration tests for backend services - Change ID: 4085935128
 // feat: add integration tests for backend services - Change ID: 383533772
-// feat: add integration tests for backend services - Change ID: 1939016550
 // feat: add integration tests for backend services - Change ID: 2597842947
 // feat: add integration tests for backend services - Change ID: 3873916662
 // feat: add integration tests for backend services - Change ID: 3577544990
@@ -868,7 +867,6 @@
 // feat: add api endpoints for developer stats - Change ID: 3044465119
 // feat: add api endpoints for developer stats - Change ID: 513387559
 // feat: add api endpoints for developer stats - Change ID: 2302769872
-// feat: add api endpoints for developer stats - Change ID: 1624327613
 // feat: add api endpoints for developer stats - Change ID: 2068037826
 // feat: add api endpoints for developer stats - Change ID: 2909185589
 // feat: add api endpoints for developer stats - Change ID: 1621498319
@@ -937,7 +935,6 @@
 // feat: add api endpoints for developer stats - Change ID: 822379943
 // feat: add api endpoints for developer stats - Change ID: 988397488
 // feat: add api endpoints for developer stats - Change ID: 2904258678
-// feat: add api endpoints for developer stats - Change ID: 165800282
 // feat: add api endpoints for developer stats - Change ID: 592342011
 // feat: add api endpoints for developer stats - Change ID: 334626525
 // feat: add api endpoints for developer stats - Change ID: 969076403
@@ -999,7 +996,6 @@
 // fix: handle api rate limits in github service - Change ID: 592668413
 // fix: handle api rate limits in github service - Change ID: 1144292042
 // fix: handle api rate limits in github service - Change ID: 2698219803
-// fix: handle api rate limits in github service - Change ID: 31216564
 // fix: handle api rate limits in github service - Change ID: 3806192417
 // fix: handle api rate limits in github service - Change ID: 1780103073
 // fix: handle api rate limits in github service - Change ID: 1806465386
@@ -1161,7 +1157,6 @@
 // feat: implement dockerfile for backend deployment - Change ID: 1063523072
 // feat: implement dockerfile for backend deployment - Change ID: 101338066
 // feat: implement dockerfile for backend deployment - Change ID: 355634992
-// feat: add ml service for repository classification - Change ID: 2229323195
 // feat: add ml service for repository classification - Change ID: 3187625515
 // feat: add ml service for repository classification - Change ID: 342545849
 // feat: add ml service for repository classification - Change ID: 1244158486
@@ -1339,3 +1334,20 @@
 // feat: add ml service for repository classification - Change ID: 1737729
 // feat: add ml service for repository classification - Change ID: 2315056742
 // feat: add ml service for repository classification - Change ID: 2408278134
+// feat: add firestore security rules - Change ID: 63220894
+// feat: add firestore security rules - Change ID: 491848635
+// feat: add firestore security rules - Change ID: 3282616639
+// feat: add firestore security rules - Change ID: 1643401408
+// feat: add firestore security rules - Change ID: 1738968230
+// feat: add firestore security rules - Change ID: 1478676084
+// feat: add firestore security rules - Change ID: 1678189911
+// feat: add firestore security rules - Change ID: 3728102061
+// feat: add firestore security rules - Change ID: 2798861430
+// feat: add firestore security rules - Change ID: 471613148
+// feat: add firestore security rules - Change ID: 2692513468
+// feat: add firestore security rules - Change ID: 2280182344
+// feat: add firestore security rules - Change ID: 2487622462
+// feat: add firestore security rules - Change ID: 710522363
+// feat: add firestore security rules - Change ID: 2537949183
+// feat: add firestore security rules - Change ID: 1449460806
+// feat: add firestore security rules - Change ID: 1459890788
