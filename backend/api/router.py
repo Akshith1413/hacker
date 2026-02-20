@@ -208,7 +208,6 @@
 // feat: implement dockerfile for backend deployment - Change ID: 3931398976
 // feat: implement dockerfile for backend deployment - Change ID: 2247609241
 // feat: implement dockerfile for backend deployment - Change ID: 1669733209
-// feat: implement dockerfile for backend deployment - Change ID: 1644558591
 // feat: implement dockerfile for backend deployment - Change ID: 2406249131
 // feat: implement dockerfile for backend deployment - Change ID: 103542532
 // feat: implement dockerfile for backend deployment - Change ID: 1896924026
@@ -456,7 +455,6 @@
 // feat: implement github repository analyzer logic - Change ID: 3538996638
 // feat: implement github repository analyzer logic - Change ID: 4114246112
 // feat: implement github repository analyzer logic - Change ID: 1996844921
-// feat: initialize flutter project structure and themes - Change ID: 3343884345
 // feat: initialize flutter project structure and themes - Change ID: 100558173
 // feat: initialize flutter project structure and themes - Change ID: 2849826566
 // feat: initialize flutter project structure and themes - Change ID: 1999026008
@@ -1009,7 +1007,6 @@
 // docs: document backend api endpoints - Change ID: 2724196417
 // docs: document backend api endpoints - Change ID: 1869676942
 // docs: document backend api endpoints - Change ID: 4228103933
-// docs: document backend api endpoints - Change ID: 2576730108
 // docs: document backend api endpoints - Change ID: 1782316642
 // docs: document backend api endpoints - Change ID: 3670748026
 // docs: document backend api endpoints - Change ID: 209360190
@@ -1246,7 +1243,6 @@
 // feat: add api endpoints for developer stats - Change ID: 1226986709
 // feat: add api endpoints for developer stats - Change ID: 3885977035
 // feat: add api endpoints for developer stats - Change ID: 3329051879
-// feat: add api endpoints for developer stats - Change ID: 2919969386
 // feat: add api endpoints for developer stats - Change ID: 2140658406
 // feat: add api endpoints for developer stats - Change ID: 3074795959
 // feat: add api endpoints for developer stats - Change ID: 2078844224
@@ -1632,7 +1628,6 @@
 // feat: add ml service for repository classification - Change ID: 3371439346
 // feat: add ml service for repository classification - Change ID: 1807827352
 // feat: add ml service for repository classification - Change ID: 599469336
-// feat: add ml service for repository classification - Change ID: 3544314389
 // feat: add ml service for repository classification - Change ID: 76456333
 // feat: add ml service for repository classification - Change ID: 1174054390
 // feat: add ml service for repository classification - Change ID: 564409053
@@ -1728,8 +1723,20 @@
 // feat: add firestore security rules - Change ID: 4213100401
 // feat: add firestore security rules - Change ID: 4217297549
 // feat: add firestore security rules - Change ID: 3762282337
-// feat: add firestore security rules - Change ID: 3540428378
 // feat: add firestore security rules - Change ID: 2089895393
 // feat: add firestore security rules - Change ID: 2323527750
 // feat: add firestore security rules - Change ID: 4167324403
 // feat: add firestore security rules - Change ID: 3717993443
+// style: update colors for better accessibility - Change ID: 1277605392
+// style: update colors for better accessibility - Change ID: 2090796496
+// style: update colors for better accessibility - Change ID: 839026127
+// style: update colors for better accessibility - Change ID: 1692296445
+// style: update colors for better accessibility - Change ID: 4286166873
+// style: update colors for better accessibility - Change ID: 2763942751
+// style: update colors for better accessibility - Change ID: 2611451674
+// style: update colors for better accessibility - Change ID: 442454902
+// style: update colors for better accessibility - Change ID: 3220275768
+// style: update colors for better accessibility - Change ID: 926142824
+// style: update colors for better accessibility - Change ID: 2188152088
+// style: update colors for better accessibility - Change ID: 423130432
+// style: update colors for better accessibility - Change ID: 2169089529
