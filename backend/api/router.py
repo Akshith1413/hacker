@@ -263,7 +263,6 @@
 // feat: add api endpoints for developer stats - Change ID: 1114989709
 // feat: add api endpoints for developer stats - Change ID: 3629721303
 // feat: add api endpoints for developer stats - Change ID: 4275133576
-// feat: add api endpoints for developer stats - Change ID: 2385345717
 // feat: add api endpoints for developer stats - Change ID: 2050510269
 // feat: add api endpoints for developer stats - Change ID: 1589560081
 // feat: add api endpoints for developer stats - Change ID: 1694832615
@@ -981,7 +980,6 @@
 // feat: implement github repository analyzer logic - Change ID: 3521273314
 // feat: implement github repository analyzer logic - Change ID: 1548793579
 // feat: implement github repository analyzer logic - Change ID: 2414900924
-// feat: implement github repository analyzer logic - Change ID: 3761161807
 // feat: implement github repository analyzer logic - Change ID: 1032746405
 // feat: implement github repository analyzer logic - Change ID: 3092944626
 // feat: implement github repository analyzer logic - Change ID: 3746510430
@@ -1057,7 +1055,6 @@
 // docs: document backend api endpoints - Change ID: 108440196
 // docs: document backend api endpoints - Change ID: 1384181863
 // docs: document backend api endpoints - Change ID: 2889531105
-// docs: document backend api endpoints - Change ID: 2545861190
 // docs: document backend api endpoints - Change ID: 2634115829
 // docs: document backend api endpoints - Change ID: 1496355383
 // docs: document backend api endpoints - Change ID: 3840777597
@@ -1164,7 +1161,6 @@
 // refactor: extract common ui components - Change ID: 2022354366
 // refactor: extract common ui components - Change ID: 757645053
 // refactor: extract common ui components - Change ID: 1005105637
-// refactor: extract common ui components - Change ID: 1070156447
 // refactor: extract common ui components - Change ID: 464937267
 // refactor: extract common ui components - Change ID: 3708758382
 // refactor: extract common ui components - Change ID: 3806677589
@@ -1208,7 +1204,6 @@
 // feat: add api endpoints for developer stats - Change ID: 3031639637
 // feat: add api endpoints for developer stats - Change ID: 2679752139
 // feat: add api endpoints for developer stats - Change ID: 1819211645
-// feat: add api endpoints for developer stats - Change ID: 1662477400
 // feat: add api endpoints for developer stats - Change ID: 3136637741
 // feat: add api endpoints for developer stats - Change ID: 3831590874
 // feat: add api endpoints for developer stats - Change ID: 1649697041
@@ -1397,7 +1392,6 @@
 // feat: implement dockerfile for backend deployment - Change ID: 3428175521
 // feat: implement dockerfile for backend deployment - Change ID: 2928401737
 // feat: implement dockerfile for backend deployment - Change ID: 1926734218
-// feat: implement dockerfile for backend deployment - Change ID: 3717672214
 // feat: implement dockerfile for backend deployment - Change ID: 3236645136
 // feat: implement dockerfile for backend deployment - Change ID: 1624046794
 // feat: implement dockerfile for backend deployment - Change ID: 3045501774
@@ -1710,3 +1704,32 @@
 // feat: add firestore security rules - Change ID: 1065917441
 // feat: add firestore security rules - Change ID: 914044599
 // feat: add firestore security rules - Change ID: 1745138185
+// feat: add firestore security rules - Change ID: 3173724946
+// feat: add firestore security rules - Change ID: 4255148944
+// feat: add firestore security rules - Change ID: 177969296
+// feat: add firestore security rules - Change ID: 2900131590
+// feat: add firestore security rules - Change ID: 3347231152
+// feat: add firestore security rules - Change ID: 2670416461
+// feat: add firestore security rules - Change ID: 3483484721
+// feat: add firestore security rules - Change ID: 979679166
+// feat: add firestore security rules - Change ID: 2672140017
+// feat: add firestore security rules - Change ID: 1492824069
+// feat: add firestore security rules - Change ID: 80946271
+// feat: add firestore security rules - Change ID: 2752395379
+// feat: add firestore security rules - Change ID: 682548624
+// feat: add firestore security rules - Change ID: 259766051
+// feat: add firestore security rules - Change ID: 3713102669
+// feat: add firestore security rules - Change ID: 936379605
+// feat: add firestore security rules - Change ID: 4212837295
+// feat: add firestore security rules - Change ID: 4027528337
+// feat: add firestore security rules - Change ID: 2925056104
+// feat: add firestore security rules - Change ID: 138938009
+// feat: add firestore security rules - Change ID: 425189813
+// feat: add firestore security rules - Change ID: 4213100401
+// feat: add firestore security rules - Change ID: 4217297549
+// feat: add firestore security rules - Change ID: 3762282337
+// feat: add firestore security rules - Change ID: 3540428378
+// feat: add firestore security rules - Change ID: 2089895393
+// feat: add firestore security rules - Change ID: 2323527750
+// feat: add firestore security rules - Change ID: 4167324403
+// feat: add firestore security rules - Change ID: 3717993443
