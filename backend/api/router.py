@@ -171,7 +171,6 @@
 // feat: implement dockerfile for backend deployment - Change ID: 1987572313
 // feat: implement dockerfile for backend deployment - Change ID: 243515323
 // feat: implement dockerfile for backend deployment - Change ID: 377569473
-// feat: implement dockerfile for backend deployment - Change ID: 3848404373
 // feat: implement dockerfile for backend deployment - Change ID: 2165494714
 // feat: implement dockerfile for backend deployment - Change ID: 3715260105
 // feat: implement dockerfile for backend deployment - Change ID: 432045951
@@ -359,7 +358,6 @@
 // feat: implement github repository analyzer logic - Change ID: 6655472
 // feat: implement github repository analyzer logic - Change ID: 3263023718
 // feat: implement github repository analyzer logic - Change ID: 2400462006
-// feat: implement github repository analyzer logic - Change ID: 1808956664
 // feat: implement github repository analyzer logic - Change ID: 3129307877
 // feat: implement github repository analyzer logic - Change ID: 2857715594
 // feat: implement github repository analyzer logic - Change ID: 1865234838
@@ -452,7 +450,6 @@
 // feat: implement github repository analyzer logic - Change ID: 208526971
 // feat: implement github repository analyzer logic - Change ID: 3538996638
 // feat: implement github repository analyzer logic - Change ID: 4114246112
-// feat: implement github repository analyzer logic - Change ID: 1996844921
 // feat: initialize flutter project structure and themes - Change ID: 100558173
 // feat: initialize flutter project structure and themes - Change ID: 2849826566
 // feat: initialize flutter project structure and themes - Change ID: 1999026008
@@ -460,7 +457,6 @@
 // feat: initialize flutter project structure and themes - Change ID: 3000565244
 // feat: initialize flutter project structure and themes - Change ID: 3874027939
 // feat: initialize flutter project structure and themes - Change ID: 466204641
-// feat: initialize flutter project structure and themes - Change ID: 649143879
 // feat: initialize flutter project structure and themes - Change ID: 417288027
 // feat: initialize flutter project structure and themes - Change ID: 1645950639
 // feat: initialize flutter project structure and themes - Change ID: 3919527443
@@ -560,7 +556,6 @@
 // feat: add ml service for repository classification - Change ID: 3833880936
 // feat: add ml service for repository classification - Change ID: 3877756863
 // feat: add ml service for repository classification - Change ID: 1100810089
-// feat: add ml service for repository classification - Change ID: 853920591
 // feat: add ml service for repository classification - Change ID: 2764125982
 // feat: add ml service for repository classification - Change ID: 1719091391
 // feat: add ml service for repository classification - Change ID: 1231070115
@@ -973,7 +968,6 @@
 // feat: implement github repository analyzer logic - Change ID: 1937727581
 // feat: implement github repository analyzer logic - Change ID: 1479894334
 // feat: implement github repository analyzer logic - Change ID: 2711756707
-// feat: implement github repository analyzer logic - Change ID: 3521273314
 // feat: implement github repository analyzer logic - Change ID: 1548793579
 // feat: implement github repository analyzer logic - Change ID: 2414900924
 // feat: implement github repository analyzer logic - Change ID: 1032746405
@@ -1748,3 +1742,21 @@
 // style: polish transitions between pages - Change ID: 2678609720
 // style: polish transitions between pages - Change ID: 3845495452
 // style: polish transitions between pages - Change ID: 3891133690
+// fix: handle api rate limits in github service - Change ID: 2004318406
+// fix: handle api rate limits in github service - Change ID: 595343438
+// fix: handle api rate limits in github service - Change ID: 3383949370
+// fix: handle api rate limits in github service - Change ID: 2676510382
+// fix: handle api rate limits in github service - Change ID: 4042590826
+// fix: handle api rate limits in github service - Change ID: 3158760314
+// fix: handle api rate limits in github service - Change ID: 103658516
+// fix: handle api rate limits in github service - Change ID: 2617993440
+// fix: handle api rate limits in github service - Change ID: 369047308
+// fix: handle api rate limits in github service - Change ID: 3376730223
+// fix: handle api rate limits in github service - Change ID: 1164040940
+// fix: handle api rate limits in github service - Change ID: 101162643
+// fix: handle api rate limits in github service - Change ID: 2521060158
+// fix: handle api rate limits in github service - Change ID: 3151788970
+// fix: handle api rate limits in github service - Change ID: 456009342
+// fix: handle api rate limits in github service - Change ID: 2294351054
+// fix: handle api rate limits in github service - Change ID: 3894262740
+// fix: handle api rate limits in github service - Change ID: 2941326181
