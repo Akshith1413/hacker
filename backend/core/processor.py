@@ -268,7 +268,6 @@
 // feat: implement settings page and user preferences - Change ID: 3282848620
 // feat: implement cache management for analysis results - Change ID: 1508833245
 // feat: implement cache management for analysis results - Change ID: 136045106
-// feat: implement cache management for analysis results - Change ID: 12899588
 // feat: implement cache management for analysis results - Change ID: 2571110678
 // feat: implement cache management for analysis results - Change ID: 3374454009
 // feat: implement cache management for analysis results - Change ID: 40328211
@@ -1205,7 +1204,6 @@
 // feat: implement dockerfile for backend deployment - Change ID: 1200006180
 // feat: implement dockerfile for backend deployment - Change ID: 3916592424
 // feat: implement dockerfile for backend deployment - Change ID: 65376039
-// feat: implement dockerfile for backend deployment - Change ID: 589239329
 // feat: implement dockerfile for backend deployment - Change ID: 3516434819
 // feat: implement dockerfile for backend deployment - Change ID: 484865755
 // feat: implement dockerfile for backend deployment - Change ID: 462396589
@@ -1288,7 +1286,6 @@
 // feat: implement dockerfile for backend deployment - Change ID: 3692488668
 // feat: implement dockerfile for backend deployment - Change ID: 1744738404
 // feat: implement dockerfile for backend deployment - Change ID: 4217175568
-// feat: implement dockerfile for backend deployment - Change ID: 80633630
 // feat: implement dockerfile for backend deployment - Change ID: 2581154110
 // feat: implement dockerfile for backend deployment - Change ID: 351350805
 // feat: implement dockerfile for backend deployment - Change ID: 2031470446
@@ -1485,7 +1482,6 @@
 // feat: setup fastapi backend and base router - Change ID: 961797721
 // feat: setup fastapi backend and base router - Change ID: 3244130341
 // feat: setup fastapi backend and base router - Change ID: 3448444455
-// feat: setup fastapi backend and base router - Change ID: 1575102257
 // feat: setup fastapi backend and base router - Change ID: 939499720
 // feat: setup fastapi backend and base router - Change ID: 848230832
 // feat: setup fastapi backend and base router - Change ID: 29717444
@@ -1542,7 +1538,6 @@
 // feat: add cover page with brand assets - Change ID: 150876506
 // feat: add cover page with brand assets - Change ID: 683351874
 // feat: add cover page with brand assets - Change ID: 1818792849
-// feat: add cover page with brand assets - Change ID: 3449150324
 // feat: add cover page with brand assets - Change ID: 2382181530
 // feat: add cover page with brand assets - Change ID: 9443468
 // feat: add cover page with brand assets - Change ID: 1001261141
@@ -1556,3 +1551,33 @@
 // feat: add cover page with brand assets - Change ID: 3835508330
 // feat: add cover page with brand assets - Change ID: 152483518
 // feat: add cover page with brand assets - Change ID: 1079045605
+// refactor: extract common ui components - Change ID: 2512239982
+// refactor: extract common ui components - Change ID: 966392527
+// refactor: extract common ui components - Change ID: 2212481147
+// refactor: extract common ui components - Change ID: 1222301409
+// refactor: extract common ui components - Change ID: 318860945
+// refactor: extract common ui components - Change ID: 3057979765
+// refactor: extract common ui components - Change ID: 490172534
+// refactor: extract common ui components - Change ID: 1230484565
+// refactor: extract common ui components - Change ID: 1554697791
+// refactor: extract common ui components - Change ID: 2794521324
+// refactor: extract common ui components - Change ID: 3843892773
+// refactor: extract common ui components - Change ID: 2043774794
+// refactor: extract common ui components - Change ID: 1238218127
+// refactor: extract common ui components - Change ID: 3186518985
+// refactor: extract common ui components - Change ID: 2568095416
+// refactor: extract common ui components - Change ID: 3210954644
+// refactor: extract common ui components - Change ID: 4198620045
+// refactor: extract common ui components - Change ID: 1396691135
+// refactor: extract common ui components - Change ID: 3459853639
+// refactor: extract common ui components - Change ID: 106459516
+// refactor: extract common ui components - Change ID: 1924488787
+// refactor: extract common ui components - Change ID: 4151213540
+// refactor: extract common ui components - Change ID: 3104417854
+// refactor: extract common ui components - Change ID: 1074022545
+// refactor: extract common ui components - Change ID: 398535504
+// refactor: extract common ui components - Change ID: 975414024
+// refactor: extract common ui components - Change ID: 1151086038
+// refactor: extract common ui components - Change ID: 289061902
+// refactor: extract common ui components - Change ID: 552819966
+// refactor: extract common ui components - Change ID: 1871704846
