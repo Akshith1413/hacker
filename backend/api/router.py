@@ -275,7 +275,6 @@
 // feat: add api endpoints for developer stats - Change ID: 2940903264
 // feat: add api endpoints for developer stats - Change ID: 2590234468
 // feat: add api endpoints for developer stats - Change ID: 2965940229
-// feat: add api endpoints for developer stats - Change ID: 4179416721
 // feat: add api endpoints for developer stats - Change ID: 2330219810
 // feat: add api endpoints for developer stats - Change ID: 1046606674
 // feat: add api endpoints for developer stats - Change ID: 3576404492
@@ -423,7 +422,6 @@
 // feat: implement github repository analyzer logic - Change ID: 2407189075
 // feat: implement github repository analyzer logic - Change ID: 1240615510
 // feat: implement github repository analyzer logic - Change ID: 2933822873
-// feat: implement github repository analyzer logic - Change ID: 2957088267
 // feat: implement github repository analyzer logic - Change ID: 2449438274
 // feat: implement github repository analyzer logic - Change ID: 2300749848
 // feat: implement github repository analyzer logic - Change ID: 2563519969
@@ -1637,7 +1635,6 @@
 // feat: add ml service for repository classification - Change ID: 1126183538
 // feat: add ml service for repository classification - Change ID: 2499554126
 // feat: add ml service for repository classification - Change ID: 3685571680
-// feat: add ml service for repository classification - Change ID: 607582304
 // feat: add ml service for repository classification - Change ID: 2133990551
 // feat: add ml service for repository classification - Change ID: 1388117531
 // feat: add ml service for repository classification - Change ID: 3101332691
@@ -1740,3 +1737,14 @@
 // style: update colors for better accessibility - Change ID: 2188152088
 // style: update colors for better accessibility - Change ID: 423130432
 // style: update colors for better accessibility - Change ID: 2169089529
+// style: polish transitions between pages - Change ID: 3302881680
+// style: polish transitions between pages - Change ID: 3802912942
+// style: polish transitions between pages - Change ID: 3228601181
+// style: polish transitions between pages - Change ID: 4014407201
+// style: polish transitions between pages - Change ID: 3931671302
+// style: polish transitions between pages - Change ID: 2147941585
+// style: polish transitions between pages - Change ID: 2085753441
+// style: polish transitions between pages - Change ID: 3265667086
+// style: polish transitions between pages - Change ID: 2678609720
+// style: polish transitions between pages - Change ID: 3845495452
+// style: polish transitions between pages - Change ID: 3891133690
