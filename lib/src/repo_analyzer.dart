@@ -316,7 +316,6 @@
 // feat: add ml service for repository classification - Change ID: 4130404868
 // feat: add ml service for repository classification - Change ID: 1499976230
 // feat: add ml service for repository classification - Change ID: 3234762150
-// feat: add ml service for repository classification - Change ID: 3017596639
 // feat: add ml service for repository classification - Change ID: 3753388347
 // feat: add ml service for repository classification - Change ID: 1958672401
 // feat: add ml service for repository classification - Change ID: 1265436588
@@ -856,7 +855,6 @@
 // feat: add api endpoints for developer stats - Change ID: 2634506305
 // feat: add api endpoints for developer stats - Change ID: 697329485
 // feat: add api endpoints for developer stats - Change ID: 2261231567
-// feat: add api endpoints for developer stats - Change ID: 636683897
 // feat: add api endpoints for developer stats - Change ID: 1438148340
 // feat: add api endpoints for developer stats - Change ID: 363216953
 // feat: add api endpoints for developer stats - Change ID: 1873890582
@@ -1042,7 +1040,6 @@
 // feat: implement dockerfile for backend deployment - Change ID: 48646082
 // feat: implement dockerfile for backend deployment - Change ID: 1063523072
 // feat: implement dockerfile for backend deployment - Change ID: 101338066
-// feat: implement dockerfile for backend deployment - Change ID: 355634992
 // feat: add ml service for repository classification - Change ID: 3187625515
 // feat: add ml service for repository classification - Change ID: 342545849
 // feat: add ml service for repository classification - Change ID: 1244158486
@@ -1510,7 +1507,6 @@
 // feat: implement runanywhere integration logic - Change ID: 247042213
 // feat: implement runanywhere integration logic - Change ID: 2466412170
 // feat: implement runanywhere integration logic - Change ID: 7770258
-// feat: implement runanywhere integration logic - Change ID: 1852116862
 // feat: implement runanywhere integration logic - Change ID: 3477897515
 // feat: implement runanywhere integration logic - Change ID: 2296423749
 // feat: implement runanywhere integration logic - Change ID: 3278596578
@@ -1686,7 +1682,6 @@
 // docs: document backend api endpoints - Change ID: 3441121329
 // docs: document backend api endpoints - Change ID: 2336749899
 // docs: document backend api endpoints - Change ID: 387858942
-// docs: document backend api endpoints - Change ID: 2058272245
 // docs: document backend api endpoints - Change ID: 637295935
 // docs: document backend api endpoints - Change ID: 1636724913
 // docs: document backend api endpoints - Change ID: 3306673249
@@ -1737,3 +1732,28 @@
 // docs: document backend api endpoints - Change ID: 1391423095
 // docs: document backend api endpoints - Change ID: 3239576587
 // docs: document backend api endpoints - Change ID: 4102858251
+// style: update colors for better accessibility - Change ID: 3548110520
+// style: update colors for better accessibility - Change ID: 958387823
+// style: update colors for better accessibility - Change ID: 317487161
+// style: update colors for better accessibility - Change ID: 2813253350
+// style: update colors for better accessibility - Change ID: 2143483932
+// style: update colors for better accessibility - Change ID: 1155278689
+// style: update colors for better accessibility - Change ID: 1131385018
+// style: update colors for better accessibility - Change ID: 4063549636
+// style: update colors for better accessibility - Change ID: 4292449105
+// style: update colors for better accessibility - Change ID: 2127153145
+// style: update colors for better accessibility - Change ID: 2717768013
+// style: update colors for better accessibility - Change ID: 838488103
+// style: update colors for better accessibility - Change ID: 1223885861
+// style: update colors for better accessibility - Change ID: 2024088825
+// style: update colors for better accessibility - Change ID: 3109836565
+// style: update colors for better accessibility - Change ID: 160574521
+// style: update colors for better accessibility - Change ID: 1295810997
+// style: update colors for better accessibility - Change ID: 1145243657
+// style: update colors for better accessibility - Change ID: 1022381352
+// style: update colors for better accessibility - Change ID: 195661770
+// style: update colors for better accessibility - Change ID: 733787974
+// style: update colors for better accessibility - Change ID: 4173061664
+// style: update colors for better accessibility - Change ID: 3210914432
+// style: update colors for better accessibility - Change ID: 938715604
+// style: update colors for better accessibility - Change ID: 3279672680
